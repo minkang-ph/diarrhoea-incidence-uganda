@@ -139,7 +139,7 @@ Two primary questions were assessed:
   - Among **low SES households**, malaria infection was associated with lower diarrhoea incidence: RR = 0.64 (95% CI: 0.45–0.93).
   - No clear association in other SES groups.
 
-📎 *See* `outputs/table2_maternal_infection_rrs.png` *and* `outputs/table3_malaria_ses_interaction.png` *for full results.*
+📎 *See* (outputs/table2_maternal_infection_rrs.png) *and* (outputs/table3_malaria_ses_interaction.png) *for full results.*
 
 ---
 
@@ -154,7 +154,7 @@ Two primary questions were assessed:
     - Children with 5+ previous episodes had **2.73 times the rate** (95% CI: 1.59–4.70) of recurrence.
   - Among **HIV-negative children**, no clear association.
 
-📎 *See* `outputs/table4_prev_episodes_rrs.png` *and* `outputs/table5_hiv_interaction.png` *for stratified estimates.*
+📎 *See* (outputs/table4_prev_episodes_rrs.png) *and* (outputs/table5_hiv_interaction.png) *for stratified estimates.*
 
 
 

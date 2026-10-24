@@ -56,7 +56,7 @@ Final groupings were: 14–19, 20–24, 25–29, and 30+.*
 
 Table 1 summarises baseline characteristics of the study population, including child sex, birthweight, HIV status, maternal infection status, maternal sociodemographics, and household infrastructure. These covariates were later examined in regression models.
 
-📎 *See* `outputs/table1_population_characteristics.png` *for the full table.*
+(outputs/table1_population_characteristics.png)
 
 ---
 
@@ -139,7 +139,8 @@ Two primary questions were assessed:
   - Among **low SES households**, malaria infection was associated with lower diarrhoea incidence: RR = 0.64 (95% CI: 0.45–0.93).
   - No clear association in other SES groups.
 
-📎 *See* (outputs/table2_maternal_infection_rrs.png) *and* (outputs/table3_malaria_ses_interaction.png) *for full results.*
+(outputs/table2_maternal_infection_rrs.png) 
+(outputs/table3_malaria_ses_interaction.png) 
 
 ---
 
@@ -154,7 +155,8 @@ Two primary questions were assessed:
     - Children with 5+ previous episodes had **2.73 times the rate** (95% CI: 1.59–4.70) of recurrence.
   - Among **HIV-negative children**, no clear association.
 
-📎 *See* (outputs/table4_prev_episodes_rrs.png) *and* (outputs/table5_hiv_interaction.png) *for stratified estimates.*
+(outputs/table4_prev_episodes_rrs.png) 
+(outputs/table5_hiv_interaction.png) 
 
 
 
